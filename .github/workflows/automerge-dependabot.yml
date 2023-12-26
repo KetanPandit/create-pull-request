@@ -1,4 +1,4 @@
-name: Auto-merge Dependabot1
+name: Auto-merge Dependabot
 on: pull_request
 
 jobs:
